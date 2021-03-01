@@ -35,7 +35,7 @@
 #define WEBSOCKET_SSL
 #endif
 
-#define SINRICPRO_SERVER_URL "ws.sinric.pro"
+#define SINRICPRO_SERVER_URL "ws.smartaccesstech.com"
 #define SINRICPRO_SERVER_PORT 80
 #define SINRICPRO_SERVER_SSL_PORT   443
 
